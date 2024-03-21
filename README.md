@@ -1,4 +1,5 @@
-# Cryptocurrency Tracker
+#
+
 
 A simple JavaScript package to track cryptocurrency prices, market data, and historical data.
 

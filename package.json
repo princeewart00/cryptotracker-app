@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "version": "1.0.0",
+  "name": "cryptotracker-app",
+  "version": "1.0.0", 
   "description": "",
   "main": "./src/index.js",
   "scripts": {
@@ -8,16 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/princeewart00/cryptotracker-app"
   },
   "keywords": [
-    "",
-    "",
-    ""
+    "cryptocurrency", 
+    "tracker",
+    "app",
+    "react",
+    "redux",
+    "redux-thunk",
+    "axios"
   ],
   "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "database-abstraction-layer": "^1.2.2"
-  }
+  "license": "MIT"
 }
