@@ -1,6 +1,6 @@
 {
   "name": "cryptotracker-app",
-  "version": "1.0.1", 
+  "version": "1.0.1",
   "description": "A simple cryptocurrency tracker app built with React, Redux, Redux-thunk and Axios",
   "main": "./src/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "https://github.com/princeewart00/cryptotracker-app"
   },
   "keywords": [
-    "cryptocurrency", 
+    "cryptocurrency",
     "tracker",
     "app",
     "react",
@@ -20,5 +20,8 @@
     "axios"
   ],
   "author": "Prince Ewart",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "database-abstraction-layer": "^1.2.2"
+  }
 }
